@@ -1,0 +1,63 @@
+Champions Theme
+Champions League Orchesta
+Champions
+Sinfonico
+./canciones/champions.wav
+1
+0
+Reptilia
+The Strokes
+Room on Fire
+Rock
+./canciones/reptilia.wav
+3
+34
+Tiene espinas el rosal
+Grupo Caniaveral
+Volumen 3
+Cumbia
+./canciones/rosal.wav
+4
+0
+Abcdefg
+Rosalia
+Motomami
+Pop
+./canciones/abcdefg.wav
+1
+6
+Sacrifice
+The Weeknd
+Dawn FM
+Pop
+./canciones/sacrifice.wav
+3
+8
+Bunny Girl Senpai OP
+Shaine Orok
+Conejita
+Pop Japones
+./canciones/seishun.wav
+3
+8
+Sinmigo
+Jose Madero
+Carmesi
+Balada
+./canciones/sinmigo.wav
+3
+20
+Used To Kwow Me
+Charlie XCX
+CRASH
+Pop
+./canciones/used.wav
+2
+25
+Feliz cumpleanios
+Ferxxo
+Te pirateamos
+Reggaeton
+./canciones/feliz.wav
+3
+36
