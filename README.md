@@ -57,7 +57,7 @@ Si nuestro CodeBlocks quedo bien configurado, esta sera la pantalla que veremos:
 ## LLenando la lista ✅  
 
 Con el teclado, escribiremos **6** para usar la opcion que dice **LLenar lista.**.   
-* El programa viene por defecto con 8 canciones que se encuentran en la carpeta `/Reproductor de musica/canciones`
+* El programa viene por defecto con 2 canciones que se encuentran en la carpeta `/Reproductor de musica/canciones`
 
 * Los datos de cada cancion vienen en el archivo de texto `/Reproductor de musica/Canciones.txt`  
 
